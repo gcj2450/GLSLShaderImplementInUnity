@@ -2,7 +2,7 @@
 GLSL shader implement in unity
  
 This is GLSL Shader implements in unity,based on the vertex fragment shader.
-
+Snapshots below are all of the shader effects.
 ![image](https://raw.githubusercontent.com/gcj2450/GLSLShaderImplementInUnity/master/ScreenShots/Page1.jpg)
 ![image](https://raw.githubusercontent.com/gcj2450/GLSLShaderImplementInUnity/master/ScreenShots/Page2.jpg)
 ![image](https://raw.githubusercontent.com/gcj2450/GLSLShaderImplementInUnity/master/ScreenShots/Page3.jpg)
